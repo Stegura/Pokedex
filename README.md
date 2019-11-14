@@ -1,4 +1,12 @@
 # Pokedex
+This application was created by Danylo Stehura, based on a test task from Teamvoy.
+
+## Prerequests
+For running application you need Node JS v.12.13.0 or higher, npm v.6.12.0  or higher, Angular CLI version 8.3.19  or higher.
+
+After cloning reposetory (if downloaded/ needet to extract), in directory of project open command line and run commands
+>npm install
+>ng serve --o
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
